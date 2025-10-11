@@ -2,4 +2,8 @@
 
 ## Im a programmer from Russia, im study what i like
 
-## Languages Python(Basic), HTML(Basic), CSS(Basic) 
+## Languages I study:
+
+  ## -Python(Basic)
+  ## -HTML(Basic)
+  ## -CSS(Basic)
